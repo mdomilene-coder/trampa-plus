@@ -17,9 +17,3 @@ Um sistema feito para conectar profissionais autônomos a quem precisa de um "tr
 - [x] Organizar os serviços por categorias (limpeza, reforma, etc).
 - [ ] Criar a Dashboard (próximo passo!).
 - [ ] Fazer o deploy pra todo mundo poder acessar.
-
-## 👩‍💻 Quem está por trás disso?
-Apenas eu, **Milene**, operando no modo: café em uma mão, manual do VS Code na outra e rezando pra cada `git push` não explodir nada. Meus sócios estão assistindo de camarote (por enquanto! 😂).
-
-## 📜 Licença
-Este projeto está sob a licença MIT - o que significa que é sério, tá registrado e eu sou a dona do código! ✌️
