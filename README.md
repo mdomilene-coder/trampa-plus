@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Trampa Plus
 
-## Getting Started
+Bem-vindo ao repositório do **Trampa Plus**, a plataforma que vai organizar a vida de quem presta serviços (e a minha também, enquanto tento não quebrar a internet).
 
-First, run the development server:
+## 💡 O que é isso?
+Um sistema feito para conectar profissionais autônomos a quem precisa de um "trampo" bem feito. O foco aqui é simplicidade: o profissional escolhe o que faz, e a gente cuida do resto.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠️ Tecnologias (Ou: O que eu usei pra fazer a mágica)
+* **Next.js**: Porque eu queria um site rápido (e moderno).
+* **Supabase**: O "cérebro" que guarda os dados pra ninguém perder nada.
+* **TypeScript**: Pra me dar bronca quando eu escrevo algo errado.
+* **Tailwind CSS**: Pra deixar tudo bonitinho sem eu precisar virar designer.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📈 Status do Projeto
+- [x] Criar a estrutura básica.
+- [x] Fazer o site conversar com o Banco de Dados.
+- [x] Organizar os serviços por categorias (limpeza, reforma, etc).
+- [ ] Criar a Dashboard (próximo passo!).
+- [ ] Fazer o deploy pra todo mundo poder acessar.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 👩‍💻 Quem está por trás disso?
+Apenas eu, **Milene**, operando no modo: café em uma mão, manual do VS Code na outra e rezando pra cada `git push` não explodir nada. Meus sócios estão assistindo de camarote (por enquanto! 😂).
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📜 Licença
+Este projeto está sob a licença MIT - o que significa que é sério, tá registrado e eu sou a dona do código! ✌️
